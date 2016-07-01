@@ -1,0 +1,18 @@
+﻿html, body{
+    height:100%;
+}
+
+.cover {
+    background: url('Images/glass.jpg') no-repeat right center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+    width:100%;
+    display:flex;
+    align-items:center;
+}
+.navbar{
+    background-color:rgb(0, 0, 0);
+}
